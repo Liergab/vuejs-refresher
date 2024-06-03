@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "first_name": "Cassandra",
+    "last_name": "Bordis",
+    "email": "cbordis0@who.int",
+    "gender": "Female",
+    "ip_address": "106.54.86.164"
+  },
+  {
+    "id": 2,
+    "first_name": "Violante",
+    "last_name": "Cess",
+    "email": "vcess1@edublogs.org",
+    "gender": "Female",
+    "ip_address": "79.42.36.18"
+  },
+  {
+    "id": 3,
+    "first_name": "Skelly",
+    "last_name": "Habbal",
+    "email": "shabbal2@fema.gov",
+    "gender": "Male",
+    "ip_address": "84.244.15.177"
+  },
+  {
+    "id": 4,
+    "first_name": "Greta",
+    "last_name": "Seagrove",
+    "email": "gseagrove3@google.com.au",
+    "gender": "Female",
+    "ip_address": "71.190.241.62"
+  },
+  {
+    "id": 5,
+    "first_name": "Tyson",
+    "last_name": "Rising",
+    "email": "trising4@chronoengine.com",
+    "gender": "Male",
+    "ip_address": "177.17.31.248"
+  }
+]
